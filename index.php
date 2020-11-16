@@ -9,6 +9,7 @@
 	<title>Magazin online</title>
 </head>
 <body>
+<?php require "blok/header.php" ?>
 	<div class="container mt-5">
 		<div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
   			<p class="lead"> La noi poți găsi o selecție largă de produse - buchete dulci, compoziții florale şi buchețele mici, deasemenea suntem gata să realizăm la comandă orice creație doriți dvs. Produsele noastre vor fi cadoul perfect ce va readuce lumină și culori vii în zilele de rutină și vor crea o dispoziție de sărbătoare. </p>
