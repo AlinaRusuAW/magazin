@@ -17,6 +17,7 @@
 </div>
 
 <div class="container mt-5">
+	<p> Salut <?=$_COOKIE['user']?>! </p>
 <a class="btn btn-outline-success btn-lg" href="index.php"> Comandă acum produsele noastre</a>
 <a class="btn btn-outline-danger btn-lg" href="exit.php">Ieşire din cabinetul personal</a>
 </div>
