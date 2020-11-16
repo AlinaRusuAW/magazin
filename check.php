@@ -18,5 +18,5 @@ $mysql = new mysqli('localhost', 'root', 'root', 'magazin');
 
 	$mysql->close();
 
-	header('Location: /index.php');
+	header('Location: /log.php');
 ?>
