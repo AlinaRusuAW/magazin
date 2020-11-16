@@ -11,4 +11,5 @@
 	}
 	setcookie('user', $user['name'], time()+3600, "/");
 	$mysql->close();
+	header('Location: /cab.php');
 ?>
