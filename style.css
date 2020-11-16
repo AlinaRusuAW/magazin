@@ -1,0 +1,13 @@
+.card{
+	width: 32%;
+	margin-left: 1%;
+}
+
+.pricing-header{
+	background-image: url("img/33.jpg");
+}
+
+.lead{
+	color: red;
+}
+
