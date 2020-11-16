@@ -94,5 +94,6 @@
     </div>
 </div>
 </div>
+<?php require "blok/footer.php" ?>
 </body>
 </html>
