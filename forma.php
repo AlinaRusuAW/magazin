@@ -13,9 +13,9 @@
 <div class="container mt-5">  
 <form action="check.php" method="post">
   <h1 class="h3 mb-3 font-weight-normal">Formă de înregistrare </h1>
-   <input type="text" name="login" id="login" class="form-control" placeholder="Introduceţi login">
-  <input type="text" name="name" id="name" class="form-control" placeholder="Introduceţi nume">
-  <input type="password" name="pass" id="pass" class="form-control" placeholder="Introduceţi parola">
+   <input type="text" name="login" id="login" class="form-control" placeholder="Introduceţi login"><br>
+  <input type="text" name="name" id="name" class="form-control" placeholder="Introduceţi nume"><br>
+  <input type="password" name="pass" id="pass" class="form-control" placeholder="Introduceţi parola"><br>
   <button class="btn btn-lg btn-success btn-block" type="submit">Înregistrare</button> 
 </form>
 </div>
