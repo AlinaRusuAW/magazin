@@ -13,6 +13,9 @@
 		echo "LUNGIME NEDISPONIBILĂ (de la 2 la 6 caractere)";
 		exit();
 	}
+$mysql = new mysqli('localhost', 'root', 'root', 'magazin');
+	$mysql->query("INSERT INTO `utilizatori` (`login`, `name`, `pass`) VALUES('$login', '$name', $pass)");
 
+	$mysql->close();
 
 ?>
