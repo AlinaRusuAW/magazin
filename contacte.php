@@ -24,6 +24,8 @@
 		   <div class="value"> <div class="i i-2">Bălți, str. I. Vatamanu 3A</div>
 		  </div> </div> 
 		  <div class="item"> <div class="level"> Contacte:  </div> 
+		   <div class="value"> <img src="img/m.jpg" width="4%" height="4%">
+		  	<a href="galaicuc213b@gmail.com">galaicuc213b@gmail.com</a></div>
 		   <div class="inl">  <img src="img/v.png" width="3.5%" height="3.5%">
 		   <a href="viber://add?number=37368558762" 
 		   class="tx"> +37368558762</a></div>
