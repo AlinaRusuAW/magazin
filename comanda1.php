@@ -22,6 +22,7 @@
 		          <li>-Categoria: Pentru femei</li>
 		          <li>-Preț: 470 lei</li>
 		        </ul>
+            <button type="button" class="btn btn-lg btn-block btn-outline-primary"><a href="comanda1.php">Adaugă în coș</a></button><br>
 		    </p>
       </div>
        <div class="col-md-5">
