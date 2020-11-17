@@ -16,6 +16,10 @@
 		 <div class="basic">
 		 <div class="title">Vă așteptăm la noi.
 		 </div> 
+		 <div class="box"> <div class="item"> 
+		 	<div class="level">Program de lucru:</div> 
+		 <div class="value"> <div class="i">Comenzile pe site se primesc și se prelucrează 24/24. Fără zile de odihnă.</div> 
+		</div> </div>
 		  <div class="item"> <div class="level">Adresa noastră:</div>
 		   <div class="value"> <div class="i i-2">Bălți, str. I. Vatamanu 3A</div>
 		  </div> </div> 
