@@ -45,7 +45,9 @@
               <button type="submit" id="comment-add" class="btn btn-success">Adauga com</button>
             </div>
           </from>
-
+          <div id="comment-field">
+  
+          </div>
     </div>
 </div>
 <?php require "blok/footer.php"?>
