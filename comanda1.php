@@ -30,24 +30,25 @@
       </div>
     </div>
 </div>
-<div class="container mt-3">
-    <h2 class="text-center">Comentarii:</h2>
-    <from action="" met>
-        <div class="from-grup">
-              <label for="comment-name">Nume:</label>
-              <input type="name" class="from-control" id="comment-name" placeholder="Nume">
+<div class="container mt-5">
+   <h2 class="text-center">Comentarii:</h2>
+    <div class="d-flex justify-content-center row">
+        <div class="col-md-8">
+            <div class="d-flex flex-column comment-section">
+                <div class="bg-white p-2">
+                    <div class="d-flex flex-row user-info">
+                        <div class="d-flex flex-column justify-content-start ml-2"><span class="d-block font-weight-bold name"></span><span class="date text-black-50"> </span></div>
+                    </div>
+                    <div class="mt-2">
+                        <p class="comment-text"> </p>
+                    </div>
+                </div>
+                <div class="bg-light p-2">
+                    <div class="d-flex flex-row align-items-start"><textarea class="form-control ml-1 shadow-none textarea"></textarea></div>
+                    <div class="mt-2 text-right"><button class="btn btn-primary btn-sm shadow-none" type="button">Publică</button><button class="btn btn-outline-primary btn-sm ml-1 shadow-none" type="button">Anulare</button></div>
+                </div>
             </div>
-            <div class="from-grup">
-              <label for="comment-body">Comentariu dvs:</label>
-              <input type="name" class="from-control" id="comment-body" placeholder="Comentariu">
-            </div>
-            <div class="from-grup">
-              <button type="submit" id="comment-add" class="btn btn-success">Adauga com</button>
-            </div>
-          </from>
-          <div id="comment-field">
-  
-          </div>
+        </div>
     </div>
 </div>
 <?php require "blok/footer.php"?>
